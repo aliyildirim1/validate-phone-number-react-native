@@ -1,0 +1,20 @@
+{
+  "name": "validate-phone-number-react-native",
+  "version": "1.0.0",
+  "description": "Phone number validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliyildirim1/validate-phone-number-react-native.git"
+  },
+  "keywords": [
+    "validate",
+    "phone",
+    "numbers"
+  ],
+  "author": "Muhammed Ali Yıldırım",
+  "license": "ISC"
+}
